@@ -1,6 +1,6 @@
 {
     "name": "TelegramForwardTagRemover",
-    "description": "A Very Simple Forward Tag remover Telegram Bot Made in Go. Create ",
+    "description": "A Simple Forward Tag remover Telegram Bot Made in Go. Create ",
     "keywords": [
         "telegram",
         "bot"
