@@ -6,20 +6,20 @@
         "bot"
     ],
     "website": "https://github.com/Ambrose114/TelegramForwardTagRemover",
+    "repo{
+    "name": "TelegramForwardTagRemover",
+    "description": "A Simple Forward Tag remover Telegram Bot Made in Go. Create ",
+    "keywords": [
+        "telegram",
+        "bot"
+    ],
+    "website": "https://github.com/Ambrose114/TelegramForwardTagRemover",
     "repository": "https://github.com/Ambrose114/TelegramForwardTagRemover",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
             "value": ""
-        },
-    "API_ID": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": ""
-    },
-    "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": ""
-}
+        }
     },
     "addons": [],
     "buildpacks": [
@@ -33,3 +33,4 @@
             "size": "free"
         }
     }
+}
